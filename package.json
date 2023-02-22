@@ -1,0 +1,9 @@
+{
+  "name": "dooku",
+  "version": "1.0.0",
+  "description": "Web programing training for begginers.",
+  "main": "index.js",
+  "repository": "git@github.com:santhanam87/dooku.git",
+  "author": "Santhanam Elumalai <sansandy04@gmail.com>",
+  "license": "MIT"
+}
