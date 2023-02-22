@@ -5,5 +5,11 @@
   "main": "index.js",
   "repository": "git@github.com:santhanam87/dooku.git",
   "author": "Santhanam Elumalai <sansandy04@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
 }
